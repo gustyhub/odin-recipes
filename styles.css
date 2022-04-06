@@ -1,0 +1,31 @@
+
+.titulo {
+    color: rgb(109, 40, 23);
+    font-weight: bold;
+    font-size: 35px;
+}
+
+#ravioles#empanadas#tallarines {
+    background-color: antiquewhite;
+    color: rgb(56, 8, 8);
+    font-size: 18px;
+}
+
+#inicio {
+    background-color: rgb(161, 161, 207);
+    color: white;
+    font-size: 18px;
+}
+
+.ingredientes {
+    color: rgb(228, 141, 35);
+}
+
+.pasos {
+    color: rgb(230, 15, 15);
+}
+
+.descripcionplato {
+    color: black;
+    background-color: yellowgreen;
+}
